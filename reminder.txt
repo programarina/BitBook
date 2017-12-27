@@ -1,0 +1,5 @@
+-izvuci podatke za svakog user-a preko profile DTO
+-uradi validaciju edit profile forme
+-sa stranice People do svog naloga treba da dodjes na stranicu profile koja ima edit dugme, a ne na stranicu People/:userID
+-sredi Search dugme
+-sredi div za error na login formi i na register formi
